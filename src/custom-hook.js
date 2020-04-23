@@ -35,7 +35,6 @@ const usePlanetInfo = (id) => {
   }, [id]);
 
   return planetName;
-
 };
 
 const PlanetInfo = ({id}) => {
